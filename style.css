@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+.nav, .content, .footer{
+	background-color: #aca9a3;
+	
+}
+.nav ul li{
+	display: inline;
+	padding: 0 15px;
+	color: black;
+	font-size: 15px;
+}
+
+.nav h1 {
+	padding-top: 40px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.nav img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav ul{
+	text-align: center;
+}
+.noidung1 img{
+	padding-top: 50px;
+	padding-right:10px;
+	float:right;
+}
+.noidung1 h1{
+	padding-top: 200px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.noidung1 h2{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung1 h3{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung1 h4{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.hinhtrongnoidung1{
+	display:inline-grid;
+	padding-left: 420px;
+	padding-top: 100px;
+}
+.noidung2 h1{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.noidung2 h2{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh1 img{
+	height: 706px;
+	width: 471PX;
+	padding-top: 40px;
+	padding-left: 62px;
+  }
+.noidung2 h3{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh2 img{
+	height: 706px;
+	width: 471PX;
+	padding-top: 40px;
+	padding-left: 62px;
+}
+.noidung2 h4{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh3 img{
+	height: 472px;
+	width: 472PX;
+	padding-top: 40px;
+	padding-left: 62px;
+}
+.footer h1{
+	padding-top: 70px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.footer h2{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 12px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+.footer img{
+	height: 844px;
+	width: 675PX;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	padding: 40px;
+}
+.footer h5{
+	padding-top: 10px;
+	text-align:left;
+	font-size: 14px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+input{
+	width: 150px;
+	background: transparent;
+}
+
+
+
+
+
